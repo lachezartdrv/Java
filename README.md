@@ -1,5 +1,8 @@
-# Java
-# javaFx - BMI
-# Antivirus
-# SetAndLists
-# TicTacToe
+
+javaFx - BMI
+
+Antivirus
+
+SetAndLists
+
+TicTacToe
